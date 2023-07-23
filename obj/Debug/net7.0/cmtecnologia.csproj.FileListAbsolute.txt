@@ -1,0 +1,15 @@
+C:\Users\WTAKA\Documents\dev\cmtecnologia\bin\Debug\net7.0\cmtecnologia.exe
+C:\Users\WTAKA\Documents\dev\cmtecnologia\bin\Debug\net7.0\cmtecnologia.deps.json
+C:\Users\WTAKA\Documents\dev\cmtecnologia\bin\Debug\net7.0\cmtecnologia.runtimeconfig.json
+C:\Users\WTAKA\Documents\dev\cmtecnologia\bin\Debug\net7.0\cmtecnologia.dll
+C:\Users\WTAKA\Documents\dev\cmtecnologia\bin\Debug\net7.0\cmtecnologia.pdb
+C:\Users\WTAKA\Documents\dev\cmtecnologia\obj\Debug\net7.0\cmtecnologia.csproj.AssemblyReference.cache
+C:\Users\WTAKA\Documents\dev\cmtecnologia\obj\Debug\net7.0\cmtecnologia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WTAKA\Documents\dev\cmtecnologia\obj\Debug\net7.0\cmtecnologia.AssemblyInfoInputs.cache
+C:\Users\WTAKA\Documents\dev\cmtecnologia\obj\Debug\net7.0\cmtecnologia.AssemblyInfo.cs
+C:\Users\WTAKA\Documents\dev\cmtecnologia\obj\Debug\net7.0\cmtecnologia.csproj.CoreCompileInputs.cache
+C:\Users\WTAKA\Documents\dev\cmtecnologia\obj\Debug\net7.0\cmtecnologia.dll
+C:\Users\WTAKA\Documents\dev\cmtecnologia\obj\Debug\net7.0\refint\cmtecnologia.dll
+C:\Users\WTAKA\Documents\dev\cmtecnologia\obj\Debug\net7.0\cmtecnologia.pdb
+C:\Users\WTAKA\Documents\dev\cmtecnologia\obj\Debug\net7.0\cmtecnologia.genruntimeconfig.cache
+C:\Users\WTAKA\Documents\dev\cmtecnologia\obj\Debug\net7.0\ref\cmtecnologia.dll
